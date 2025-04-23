@@ -22,3 +22,4 @@
 This Isaac Lab simulation based on the [TactSim-IsaacLab](https://github.com/WilliamBonilla62/TactSim-IsaacLab_4_5?tab=readme-ov-file#digit-robot-simulation-in-isaac-lab-45)This repository adapts and extends their work to run smoothly on Ubuntu 22.04 with Isaac Lab 4.5.
 
 This simulation features a robot hand equipped with fingertip cameras, interacting with objects like bolts and sphere in a simulated scene. It's designed to provide visual feedback from the robot's perspective and allow experimentation with manipulation and IK control.
+### Requirement
