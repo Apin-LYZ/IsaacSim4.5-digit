@@ -1,4 +1,4 @@
-# IsaacSim4.5-digit
+# IsaacSim4.5-Digit
 
 ## Issacsim4.5-Digit
 我们的项目是基于 [TactSim-IsaacLab](https://github.com/WilliamBonilla62/TactSim-IsaacLab_4_5?tab=readme-ov-file#digit-robot-simulation-in-isaac-lab)
