@@ -21,7 +21,7 @@
    ```
    conda activate env_isaaclab  虚拟环境名
    cd Issacsim4.5-Digit
-   python demo_bolt.py --enable_cameras
+   python demo_sphere.py --enable_cameras
    ```
  • 这将启动以下模拟：
  
@@ -34,7 +34,8 @@
     使用微分逆运动学的实时 RGB 和深度图和抓取器控制
 
 ### 输出展示
+ • 小球外表图
+ • 模拟场景图
+ • 指尖摄像头视角图
 
-
-
-###
+### 
