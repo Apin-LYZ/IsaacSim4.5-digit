@@ -34,6 +34,7 @@
     使用微分逆运动学的实时 RGB 和深度图和抓取器控制
 
 ### 输出展示
+<img width="954" alt="e5426ecfdc705727d17dcfc27da58d9" src="https://github.com/user-attachments/assets/28d5ee44-4d08-46c3-a2bc-577e8dd48455" />
 
 
 ###
